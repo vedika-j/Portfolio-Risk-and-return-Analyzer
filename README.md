@@ -1,5 +1,4 @@
-# Portfolio-Risk-and-return-Analyzer
-A Python project simulating portfolio returns, calculating volatility and Sharpe Ratios, and visualizing investment risk metrics.
+
 # Portfolio Risk & Return Analyzer
 
 This project simulates financial asset returns, calculates their volatility and Sharpe Ratios, and visualizes risk-return profiles using Python.
